@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Varun! 🚀
 
-<!--
-**varunk747/varunk747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer & AI Practitioner** with 2 years of industry experience. I build scalable pipelines and robust ML models.
 
-Here are some ideas to get you started:
+* 🎓 **MSc Data Science & AI** @ Newcastle University
+* 💼 **Ex-Backend Developer (AI)** @ CodaBot | **Ex-Research Intern** @ Ministry of Defence (DRDO)
+* 🛠️ **Core Stack:** Python, SQL, PySpark, Docker, Azure, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Latest work:**
+* Drafting 3D bin-packing algorithms for logistics optimization.
+* Building multimodal Transformers for idiomatic text detection.
+* Processing 15M+ daily records via custom ETL pipelines.
+
+Let's connect: [LinkedIn](https://linkedin.com/in/varunk747)

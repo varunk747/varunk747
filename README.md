@@ -7,7 +7,10 @@
 * 🛠️ **Core Stack:** Python, SQL, PySpark, Docker, Azure, PyTorch
 
 **Latest work:**
-* Drafting 3D bin-packing algorithms for logistics optimization.
+* Building LangChain RAG pipelines and fine-tuning Mistral-7B via LoRA.
+* Developing CNN-LSTM and XGBoost ensembles for predictive maintenance and RUL forecasting.
+* Training ResNet50 semantic segmentation models for pixel-level image classification.
+* Drafting 3D bin-packing algorithms for logistics optimisation.
 * Building multimodal Transformers for idiomatic text detection.
 * Processing 15M+ daily records via custom ETL pipelines.
 

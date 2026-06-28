@@ -8,10 +8,11 @@
 
 **Latest work:**
 * Building LangChain RAG pipelines and fine-tuning Mistral-7B via LoRA.
-* Developing CNN-LSTM and XGBoost ensembles for predictive maintenance and RUL forecasting.
+* Developing CNN-LSTM and XGBoost ensembles for predictive maintenance and RUL forecasting. — [Link](https://varunk747.github.io/Telematics-Sensor-Anomaly-Detection-and-Predictive-Maintenance-Pipeline/)
 * Training ResNet50 semantic segmentation models for pixel-level image classification.
 * Drafting 3D bin-packing algorithms for logistics optimisation.
 * Building multimodal Transformers for idiomatic text detection.
 * Processing 15M+ daily records via custom ETL pipelines.
 
-Let's connect: [LinkedIn](https://linkedin.com/in/varunk747)
+Let's connect: [LinkedIn](https://linkedin.com/in/varunk747) /
+[Portfolio](https://varunk747.github.io/)
